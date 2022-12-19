@@ -26,7 +26,7 @@ This roadmap shows you what's to come for this repo. It will document my journey
 
 -  ♾️ TACTIC 2 > [My Cloud Career Mind Map](https://events.giftedlane.com/cloudmindmap)
 
-    I created a mind map that helped me figure out my next career move. [Download a free copy](https://events.giftedlane.com/cloudmindmap) to edit for your personal use.
+    I created a mind map that helped me figure out my next career move. [Download a free copy](https://events.giftedlane.com/cloudmindmap) to edit for your personal use. [Watch my video breakdown](https://youtu.be/aNdpIs3iKmQ) of this lovely work of art.
     <p align="center">
  <img src="img/mindmap.png?raw=true" alt="GIFTED LANE Logo" width="80%" height="80%" />
 </p>
