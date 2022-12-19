@@ -17,7 +17,7 @@ I use [KodeKloud Engineer](https://kodekloud.com/kodekloud-engineer/) for this. 
 ### Start Here
 
 -  ♾️ DAY 0 > [Who is GIFTED LANE?](https://www.youtube.com/watch?v=jGgmlCO8gqs)
--  ♾️ DAY 1 > [New to Linux? Linux Course Suggestions](Days/day01.md)
+-  ♾️ DAY 1 > [New to Linux? Linux Course Suggestions](KodeKloudEngineerChallenges/day01.md)
 
 ### Let’s Jump Into the Deep End (of Linux)
 KodeKloud Engineer Linux Challenges:
