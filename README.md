@@ -42,4 +42,4 @@ This roadmap shows you what's to come for this repo. It will document my journey
 
 -  ♾️ TACTIC 1 > [Dust off the Ol’ Resume] _Stay tuned. Soon I'll share my resume tips that consistently get me interviews._
 -  ♾️ TACTIC 2 > [Start Taking an AWS Solutions Architect Course](get-a-job/t2.md)
--  ♾️ TACTIC 3 > [Interview DOs] _Stay tuned. Soon I'll share my resume tips that consistently get me interviews._
+-  ♾️ TACTIC 3 > [Interview DOs] _Stay tuned. Soon I'll share my interview tips._
