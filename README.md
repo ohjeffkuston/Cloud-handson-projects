@@ -15,6 +15,8 @@ In April 2022, I began my **FIRST** cloud role as a **Cloud Network Engineer** _
  <img src="img/careerRoadmap.png?raw=true" alt="GIFTED LANE Logo" width="50%" height="50%" />
 </p>
 
+This roadmap shows you what's to come for this repo. It will document my journey in chronological order. The roadmap is a work in progress. Only some things are present. For example, there's DevOps after the Linux milestone. So keep checking back for updates.
+
 ## Start
 > **tac·tic** :   _an action or strategy carefully planned to achieve a specific end._  _(noun) /ˈtaktik/_
 
