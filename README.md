@@ -24,7 +24,7 @@ In April 2022, I began my **FIRST** cloud role as a **Cloud Network Engineer** _
 
 -  ♾️ TACTIC 2 > [My Cloud Career Mind Map](https://events.giftedlane.com/cloudmindmap)
 
-    I created a Mind Map that helped me figure out my next career move. [Download a free copy](https://events.giftedlane.com/cloudmindmap) to edit for your personal use.
+    I created a mind map that helped me figure out my next career move. [Download a free copy](https://events.giftedlane.com/cloudmindmap) to edit for your personal use.
     <p align="center">
  <img src="img/mindmap.png?raw=true" alt="GIFTED LANE Logo" width="50%" height="50%" />
 </p>
