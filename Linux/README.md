@@ -22,9 +22,9 @@ I use [KodeKloud Engineer](https://kodekloud.com/kodekloud-engineer/) for this. 
 ### Let’s Jump Into the Deep End (of Linux)
 KodeKloud Engineer Linux Challenges:
 
--  ♾️ DAY 2 > [Create a Linux User with non-interactive shell](Days/day02.md)
--  ♾️ DAY 3 > [Linux Time Zones Setting](Days/day03.md)
--  ♾️ DAY 4 > [Linux File Permissions](Days/day04.md)
--  ♾️ DAY 5 > [Linux Run Levels](Days/day05.md)
--  ♾️ DAY 6 > [Create a Cron Job](Days/day06.md)
--  ♾️ DAY 7 > [Linux User Without Home](Days/day07.md)
+-  ♾️ DAY 2 > [Create a Linux User with non-interactive shell](KodeKloudEngineerChallenges/day02.md)
+-  ♾️ DAY 3 > [Linux Time Zones Setting](KodeKloudEngineerChallenges/day03.md)
+-  ♾️ DAY 4 > [Linux File Permissions](KodeKloudEngineerChallenges/day04.md)
+-  ♾️ DAY 5 > [Linux Run Levels](KodeKloudEngineerChallenges/day05.md)
+-  ♾️ DAY 6 > [Create a Cron Job](KodeKloudEngineerChallenges/day06.md)
+-  ♾️ DAY 7 > [Linux User Without Home](KodeKloudEngineerChallenges/day07.md)
