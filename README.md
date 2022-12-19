@@ -9,7 +9,7 @@ In April 2022, I began my **FIRST** cloud role as a **Cloud Network Engineer** _
 
 ## Disclaimer
 
-> This repo serves as **_my_** North Star to stay on track and move with purpose in **_my_** Cloud Journey. How **I learn and move** _may not best suit **you**_. Nonetheless, here's a look into how I operate. Enjoy! 🤗
+> This repo serves as **_my_** North Star to stay on track and move with purpose in **_my_** Cloud Journey. How **I learn and move** _may not best suit **you**_. Nevertheless, here's a look into how I operate. Enjoy! 🤗
 
 <p align="center">
  <img src="img/careerRoadmap.png?raw=true" alt="GIFTED LANE Logo" width="50%" height="50%" />
