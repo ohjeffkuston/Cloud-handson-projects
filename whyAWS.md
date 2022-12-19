@@ -15,3 +15,5 @@ I created a Mind Map that helped me figure out my next move. Mapping out my Whys
 <p align="center">
  <img src="img/mindmapsections.png?raw=true" alt="GIFTED LANE Logo" width="50%" height="50%" />
 </p>
+
+[Home](../README.md)

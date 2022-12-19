@@ -38,6 +38,6 @@ In April 2022, I began my **FIRST** cloud role as a **Cloud Network Engineer** _
 
 > My plan was to land a cloud job with zero cloud certs and zero cloud experience _(and that's what I did)_
 
--  ♾️ TACTIC 1 > [Dust off the Ol’ Resume]
-
-    Stay tuned. Soon I'll share my resume tips that consistently get me interviews.
+-  ♾️ TACTIC 1 > [Dust off the Ol’ Resume] _Stay tuned. Soon I'll share my resume tips that consistently get me interviews._
+-  ♾️ TACTIC 2 > [Start Taking an AWS Solutions Architect Course](get-a-job/t2.md)
+-  ♾️ TACTIC 3 > [Interview DOs] _Stay tuned. Soon I'll share my resume tips that consistently get me interviews._
