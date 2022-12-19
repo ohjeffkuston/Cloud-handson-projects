@@ -2,7 +2,7 @@
  <img src="img/GLN_Logo.png?raw=true" alt="GIFTED LANE Logo" width="50%" height="50%" />
 </p>
 
-# Cloud Zero to AWS Hero
+# Cloud Zero to AWS Hero (my next goal)
 In April 2022, I began my **FIRST** cloud role as a **Cloud Network Engineer** _(AWS-focused)_. I had **_zero cloud certs_** and **_no previous cloud experience_**. Check out [my YouTube channel](https://www.youtube.com/@giftedlane) to see how I pulled that off. Five months later, I became a **Cloud Associate Architect**. This repo is my cloud diary. It documents what I am learning along the way and how.
 
 **_Get in touch with me via_ [Twitter | Instagram | Twitch](https://events.giftedlane.com/stayintouch)**
