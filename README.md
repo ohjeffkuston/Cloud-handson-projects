@@ -12,7 +12,7 @@ In April 2022, I began my **FIRST** cloud role as a **Cloud Network Engineer** _
 > This repo serves as **_my_** North Star to stay on track and move with purpose in **_my_** Cloud Journey. How **I learn and move** _may not best suit **you**_. Nevertheless, here's a look into how I operate. Enjoy! 🤗
 
 <p align="center">
- <img src="img/careerRoadmap.png?raw=true" alt="GIFTED LANE Logo" width="50%" height="50%" />
+ <img src="img/careerRoadmap.png?raw=true" alt="GIFTED LANE Logo" width="100%" height="100%" />
 </p>
 
 This roadmap shows you what's to come for this repo. It will document my journey in chronological order. The roadmap is a work in progress. Only some things are present. For example, there's DevOps after the Linux milestone. So keep checking back for updates.
@@ -28,7 +28,7 @@ This roadmap shows you what's to come for this repo. It will document my journey
 
     I created a mind map that helped me figure out my next career move. [Download a free copy](https://events.giftedlane.com/cloudmindmap) to edit for your personal use.
     <p align="center">
- <img src="img/mindmap.png?raw=true" alt="GIFTED LANE Logo" width="50%" height="50%" />
+ <img src="img/mindmap.png?raw=true" alt="GIFTED LANE Logo" width="80%" height="80%" />
 </p>
 
 -  ♾️ TACTIC 3 > [Why AWS?](whyAWS.md)
