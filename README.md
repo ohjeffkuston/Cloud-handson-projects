@@ -1,5 +1,4 @@
 <p align="center">
- <img src="img/GLN_Logo.png?raw=true" alt="GIFTED LANE Logo" width="50%" height="50%" />
 </p>
 
 # Cloud Zero to AWS Hero (my next goal)
